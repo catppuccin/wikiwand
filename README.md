@@ -35,8 +35,13 @@
 </details>
 
 ## Usage
+[🌻 Latte](https://userstyles.world/style/7272/catppuccin-latte-wikiwand)
 
-*To be uploaded*
+[🪴 Frappé](https://userstyles.world/style/7271/catppuccin-frappe-wikiwand)
+
+[🌺 Macchiato](https://userstyles.world/style/7270/catppuccin-macchiato-wikiwand)
+
+[🌿 Mocha](https://userstyles.world/style/7269/catppuccin-mocha-wikiwand)
 
 *You can change the flavour by changing `--flavour: to var(--FLAVOUR_HERE)` at the bottom of `:root`*
 
