@@ -35,6 +35,11 @@
 </details>
 
 ## Usage
+
+1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
+
+2. Click on the flavour of your choice to install.
+
 [🌻 Latte](https://userstyles.world/style/7272/catppuccin-latte-wikiwand)
 
 [🪴 Frappé](https://userstyles.world/style/7271/catppuccin-frappe-wikiwand)
