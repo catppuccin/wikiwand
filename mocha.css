@@ -1,0 +1,190 @@
+/* ==UserStyle==
+@name           catppuccin-mocha-wikiwand
+@namespace      USO Archive
+@author         tnixc
+@description    Soothing pastel theme for wikiwand
+@version        1.0
+@license        MIT
+@preprocessor   uso
+==/UserStyle== */
+/* ---------- Catppuccin-mocha-wikiwand ---------- */
+/* ---------- v1.0 / 12-11-2022 ---------- */
+/* by tnixc */
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("wikiwand.com") {
+  /* ============= UNIFORM BACKGROUND COLORS ============= */
+  :root {
+    --rosewater: #f5e0dc;
+    --flamingo: #f2cdcd;
+    --pink: #f5c2e7;
+    --mauve: #cba6f7;
+    --red: #f38ba8;
+    --maroon: #eba0ac;
+    --peach: #fab387;
+    --yellow: #f9e2af;
+    --green: #a6e3a1;
+    --teal: #94e2d5;
+    --sky: #89dceb;
+    --sapphire: #74c7ec;
+    --blue: #87b0f9;
+    --lavender: #b4befe;
+    --text: #c6d0f5;
+    --subtext1: #b3bcdf;
+    --subtext0: #a1a8c9;
+    --overlay2: #8e95b3;
+    --overlay1: #7b819d;
+    --overlay0: #696d86;
+    --surface2: #565970;
+    --surface1: #43465a;
+    --surface0: #313244;
+    --base: #1e1e2e;
+    --mantle: #181825;
+    --crust: #11111b;
+    --flavour: var(--rosewater);
+  }
+  .root_dark__oGh5X {
+    --color-bg: var(--base);
+    --color-text: var(--text);
+    --color-grey: var(--subtext0);
+    --color-table: var(--surface0);
+    --color-table-border: var(--surface0);
+    --color-link: var(--flavour);
+    --toc-bg: var(--mantle);
+    --toc-text: var(--text);
+    --toc-border: var(--crust);
+    --tag-bg: var(--surface0);
+    --tag-text: var(--overlay1);
+    --navbar-bg: var(--crust);
+    --navbar-border: var(--mantle);
+    --navbar-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2),
+      0px 5px 10px rgba(0, 0, 0, 0.3);
+  }
+  .popover_arrow__pQSsX::before {
+    background-color: var(--surface1);
+    border: 1px solid var(--surface2);
+  }
+  *[class*="dropdown_item"] {
+    color: var(--text);
+  }
+  .popover_popover__jgyGp {
+    background-color: var(--surface1);
+    border: 1px solid var(--surface2);
+    border-radius: 0.625em;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.1), 0 5px 10px rgba(0, 0, 0, 0.1);
+  }
+  .draggable_wrapper__YB014 {
+    background-color: var(--surface1);
+    border: 1px solid var(--surface0);
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.3);
+    color: var(--text);
+  }
+  .checkbox_checkbox__uXwIZ {
+    width: 1.125em;
+    height: 1.125em;
+    border-radius: 0.125em;
+    border: 1px solid var(--surface1);
+    background-color: var(--surface2);
+    position: relative;
+  }
+  .checkbox_checkbox__uXwIZ::before {
+    background-color: var(--flavour);
+  }
+  svg.audio_icon__eZ5Bx {
+    color: var(--text);
+  }
+  .checkbox_label__V5gon,
+  .audio_select__kmOPL {
+    color: var(--subtext0) !important;
+  }
+  .draggable_header__bfxdq {
+    border: 1px solid var(--surface1) !important;
+  }
+  .footer_donation__Cje_Q {
+    display: none !important;
+  }
+  .dropdown_content__4NAxl {
+    background-color: var(--surface1);
+    border: 1px solid var(--surface2);
+  }
+  p.settings_setLabel__NrVBx:nth-child(3),
+  article.settings_section__vRaq_:nth-child(1) {
+    color: var(--text);
+  }
+  .toggle_label__y7mDQ {
+    color: var(--text);
+  }
+  .toggle_bg__Qn4Oc {
+    background-color: var(--flavour);
+  }
+  .toggle_label__y7mDQ.toggle_active__l_k3F {
+    color: var(--base);
+  }
+  .toggle_label__y7mDQ:not(.toggle_active__l_k3F):hover {
+    color: var(--flavour);
+  }
+  .themeBtn_wrapper__KTkHk.themeBtn_active__4gb_I,
+  .themeBtn_wrapper__KTkHk:hover {
+    color: var(--flavour);
+  }
+  .themeBtn_label__GyvdH {
+    color: var(--subtext1);
+  }
+  .toggle_toggle__jzkKG {
+    background-color: var(--surface2);
+  }
+  .settings_reset__GO2x4 {
+    border-top: 1px solid var(--surface2);
+  }
+  .settings_resetBtn__3yLrG {
+    color: var(--text);
+  }
+  .settings_resetBtn__3yLrG:not(.settings_disabled__7X7Nu):hover {
+    color: var(--red);
+  }
+  .themeBtn_label__GyvdH span {
+    background-color: var(--surface2);
+    border: 1px solid var(--surface2);
+  }
+  .themeBtn_wrapper__KTkHk.themeBtn_active__4gb_I .themeBtn_demoWrapper__fdi7G {
+    border: 1px solid var(--flavour) !important;
+  }
+  div.themeBtn_wrapper__KTkHk:nth-child(3)
+    > p:nth-child(2)
+    > span:nth-child(1)::before {
+    background-color: var(--flavour);
+  }
+  .item_item__uLhiz.item_active__4kaIV {
+    color: var(--flavour);
+  }
+  .item_item__uLhiz.item_active__4kaIV,
+  .item_item__uLhiz:hover {
+    background-color: var(--surface2);
+  }
+  .languages_wrapper__1Ad3R {
+    color: var(--subtext1);
+  }
+  .input_input__uGeT_ {
+    color: var(--text);
+    background-color: var(--overlay0);
+    border-radius: 4px;
+  }
+  .input_wrapper__aeypb {
+    border: none !important;
+  }
+  .action_action___vLQg {
+    color: var(--flavour);
+  }
+  .share_btn__9IJpe {
+    color: var(--text);
+    background-color: var(--surface2);
+    border: var(--suirface2);
+  }
+  .share_btn__9IJpe span {
+    color: var(--text);
+  }
+  .footer_socialWrapper__R1iSQ *:hover,
+  .footer_link__TA4rr:hover {
+    color: var(--flavour);
+  }
+}
