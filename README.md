@@ -35,7 +35,7 @@
 </details>
 
 ## Usage
-1. On the wikiwand website, **change the theme to dark. It will not work otherwise.**
+1. **For Latte, change the theme to "light". For Frappé, Macchiato, and Mocha, change the theme to "dark". It will not work otherwise.**
 
 2. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
 
