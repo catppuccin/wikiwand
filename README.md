@@ -35,18 +35,19 @@
 </details>
 
 ## Usage
+1. On the wikiwand website, **change the theme to dark. It will not work otherwise.**
 
-1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
+2. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
 
-2. Click on the flavour of your choice to install.
+3. Click on the flavour of your choice to install.
 
-[🌻 Latte](https://userstyles.world/style/7272/catppuccin-latte-wikiwand)
+  [🌻 Latte](https://userstyles.world/style/7272/catppuccin-latte-wikiwand)
 
-[🪴 Frappé](https://userstyles.world/style/7271/catppuccin-frappe-wikiwand)
+  [🪴 Frappé](https://userstyles.world/style/7271/catppuccin-frappe-wikiwand)
 
-[🌺 Macchiato](https://userstyles.world/style/7270/catppuccin-macchiato-wikiwand)
+  [🌺 Macchiato](https://userstyles.world/style/7270/catppuccin-macchiato-wikiwand)
 
-[🌿 Mocha](https://userstyles.world/style/7269/catppuccin-mocha-wikiwand)
+  [🌿 Mocha](https://userstyles.world/style/7269/catppuccin-mocha-wikiwand)
 
 *You can change the flavour by changing `--flavour: to var(--FLAVOUR_HERE)` at the bottom of `:root`*
 
