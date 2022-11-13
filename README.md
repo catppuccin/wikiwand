@@ -35,21 +35,16 @@
 </details>
 
 ## Usage
-1. **For Latte, change the theme to "light". For Frappé, Macchiato, and Mocha, change the theme to "dark". It will not work otherwise.**
 
-2. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
+[🌻 Latte](https://userstyles.world/style/7272/catppuccin-latte-wikiwand)
 
-3. Click on the flavour of your choice to install.
+[🪴 Frappé](https://userstyles.world/style/7271/catppuccin-frappe-wikiwand)
 
-  [🌻 Latte](https://userstyles.world/style/7272/catppuccin-latte-wikiwand)
+[🌺 Macchiato](https://userstyles.world/style/7270/catppuccin-macchiato-wikiwand)
 
-  [🪴 Frappé](https://userstyles.world/style/7271/catppuccin-frappe-wikiwand)
+[🌿 Mocha](https://userstyles.world/style/7269/catppuccin-mocha-wikiwand)
 
-  [🌺 Macchiato](https://userstyles.world/style/7270/catppuccin-macchiato-wikiwand)
-
-  [🌿 Mocha](https://userstyles.world/style/7269/catppuccin-mocha-wikiwand)
-
-*You can change the accent by changing `--accent: to var(--ACCENT_HERE)` at the bottom of `:root`*
+_You can change the accent by changing `--accent: to var(--accent_HERE)` at the bottom of `:root`_
 
 ## 💝 Thanks to
 
