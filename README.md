@@ -49,7 +49,7 @@
 
   [🌿 Mocha](https://userstyles.world/style/7269/catppuccin-mocha-wikiwand)
 
-*You can change the flavour by changing `--accent: to var(--ACCENT_HERE)` at the bottom of `:root`*
+*You can change the accent by changing `--accent: to var(--ACCENT_HERE)` at the bottom of `:root`*
 
 ## 💝 Thanks to
 
