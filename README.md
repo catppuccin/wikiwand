@@ -19,36 +19,31 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/latte.png"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/frappe.png"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="/assets/macchiato.png"/>
+<img src="/assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/mocha.png"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
-
-[🌻 Latte](https://userstyles.world/style/7272/catppuccin-latte-wikiwand)
-
-[🪴 Frappé](https://userstyles.world/style/7271/catppuccin-frappe-wikiwand)
-
-[🌺 Macchiato](https://userstyles.world/style/7270/catppuccin-macchiato-wikiwand)
-
-[🌿 Mocha](https://userstyles.world/style/7269/catppuccin-mocha-wikiwand)
-
-_You can change the accent by changing `--accent: to var(--accent_HERE)` at the bottom of `:root`_
+1. Install Stylus extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
+2. Then install with Stylus (click on the link):
+  - [🌻 Catppuccin for WikiWand](https://github.com/catppuccin/wikiwand/raw/main/catppuccin.user.css)
+3. Choose you theme and accent color by Setting Theme in Stylus Options
 
 ## 💝 Thanks to
 
 - [Tnixc](https://github.com/tnixc)
+- [rubyowo](https://github.com/rubyowo)
 
 &nbsp;
 
